@@ -1,6 +1,6 @@
 # Hi there, I'm Dennis Mensah 
 
-### 🚀 Senior Mobile, Desktop, and Machine Learning Engineer
+### 🚀 Senior Software Engineer
 
 I'm a passionate developer with a strong focus on building cross-platform applications and innovative AI solutions. My expertise lies in:
 
